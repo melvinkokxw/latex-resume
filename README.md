@@ -1,6 +1,6 @@
 # LaTeX resume
 
-Personal resumé generated using LaTeX. Based on Medium Length Professional CV from (http://www.LaTeXTemplates.com)[http://www.LaTeXTemplates.com].
+Personal resumé generated using LaTeX. Based on Medium Length Professional CV from [http://www.LaTeXTemplates.com](http://www.LaTeXTemplates.com).
 
 Adjustments include:
 
@@ -13,4 +13,4 @@ Hire me!!!
 
 ## Credits
 
-The resume template is an edited version of Medium Length Professional CV from (http://www.LaTeXTemplates.com)[http://www.LaTeXTemplates.com], originally from (Trey Hunner)[http://www.treyhunner.com/].
+The resume template is an edited version of Medium Length Professional CV from [http://www.LaTeXTemplates.com](http://www.LaTeXTemplates.com), originally from [Trey Hunner](http://www.treyhunner.com/).
