@@ -11,6 +11,10 @@ Adjustments include:
 
 Hire me!!!
 
+## Sample
+
+A sample of the resume output (i.e. my actual resume) can be seen [here](https://melvinkok.me/resources/melvinKokResume.pdf).
+
 ## Credits
 
 The resume template is an edited version of Medium Length Professional CV from [http://www.LaTeXTemplates.com](http://www.LaTeXTemplates.com), originally from [Trey Hunner](http://www.treyhunner.com/).
